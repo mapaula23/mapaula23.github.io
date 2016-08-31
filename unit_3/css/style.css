@@ -1,8 +1,10 @@
 body {
     background-image: url("https://static.pexels.com/photos/30267/pexels-photo-30267.jpg");
 }
-Try it Yourself »
 
 h1, p {
-	color: gold;
+	color: white;
+}
+#slogan {
+	font-style: italic;
 }
