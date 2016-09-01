@@ -1,5 +1,8 @@
 body {
-    background-image: url("https://static.pexels.com/photos/30267/pexels-photo-30267.jpg");
+	text-align: center;
+    background: url("https://static.pexels.com/photos/30267/pexels-photo-30267.jpg");
+    background-size: cover;
+    color: #fff;
 }
 
 h1, p {
