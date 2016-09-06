@@ -1,6 +1,6 @@
 body {
 	text-align: center;
-    background: url("/Users/mapaula23/Desktop/General Assembly/Unit_1/mapaula23.github.io/unit_3/images/home-feet.jpg");
+    background: url(../images/home-feet.jpg)
     background-size: cover;
     color: #fff;
 }
