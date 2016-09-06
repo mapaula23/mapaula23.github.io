@@ -1,12 +1,16 @@
 body {
 	text-align: center;
-    background: url("http://www.aptowi.com/wp-content/uploads/2013/02/iStock_000021872166_Medium.jpg");
+    background: url("hhttps://static.pexels.com/photos/32282/pexels-photo.jpg");
     background-size: cover;
     color: #fff;
 }
 
 h1, p {
 	color: white;
+	font-size: 22px;
+}
+hr {
+      width: 200px;
 }
 #slogan {
 	font-style: italic;
