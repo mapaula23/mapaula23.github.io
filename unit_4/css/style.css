@@ -1,10 +1,12 @@
+@import url('https://fonts.googleapis.com/css?family=Indie+Flower');
+
 body {
+	font-family: 'Indie Flower', cursive;
 	text-align: center;
     background: url("https://static.pexels.com/photos/53364/girls-women-happy-sexy-53364.jpeg");
     background-size: cover;
     color: #fff;
 }
-@import url('https://fonts.googleapis.com/css?family=Indie+Flower');
 
 h1, p {
 	color: white;
